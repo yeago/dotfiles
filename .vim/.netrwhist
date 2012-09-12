@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/vagrant/wikisyntax/wikisyntax'
+let g:netrw_dirhist_2='/home/vagrant/tappedout/tapped/deck/models'
+let g:netrw_dirhist_3='/home/vagrant/tappedout/tapped/mtg'
+let g:netrw_dirhist_4='/home/vagrant/tappedout/tapped/deck/models'
+let g:netrw_dirhist_5='/home/vagrant/tappedout/tapped/deck/views'
+let g:netrw_dirhist_6='/home/vagrant/tappedout/tapped/base/forms'
